@@ -116,4 +116,4 @@ This project provides a comprehensive analysis of financial loans using SQL and 
 _Data Scientist | Business Intelligence Analyst_
 
 
-🔗 : [LinkedIn](www.linkedin.com/in/gamal-osama)
+🔗 : [**LinkedIn**](https://www.linkedin.com/in/gamal-osama-1g)  
