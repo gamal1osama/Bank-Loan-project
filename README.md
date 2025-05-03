@@ -15,6 +15,10 @@ Below are the key visualizations from the Power BI dashboard:
 ### 🔹 Details View
 ![Details](Details.PNG)
 
+### 🌐 **Live Dashboard Demo**
+Explore the interactive Power BI dashboard here:  
+🔗 [**View Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNGIyMWNmMWQtZTVmNS00NGZlLTllZTgtZTc5Mjg4YTBhZDc3IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
 ## 📁 Dataset
 The dataset (`financial_loan.csv`) includes financial loan data with attributes such as:
 - `id`: Unique identifier for each loan
